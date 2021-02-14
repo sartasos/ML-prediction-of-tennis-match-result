@@ -2,8 +2,7 @@
 
 The purpose of this project is to predict a tennis match result based on previous match statistics.
 
-For the training of our ML machine, we used Jeff Sackmann's datasets (it can be found here: https://github.com/JeffSackmann/tennis_atp). 
-More specifically, we gathered data of ATP singles matches for the period 2010-2019 and combined them into one single .csv file (stats.csv). Later, data cleaning and feature engineering were implemented in order for our ML models to be trained and tested.
+For the training of our ML machine, we used Jeff Sackmann's datasets (can be found here: https://github.com/JeffSackmann/tennis_atp). More specifically, we gathered data of ATP singles matches for the period 2010-2019 and combined them into one single .csv file (stats.csv). Later, data cleaning and feature engineering were implemented in order for our ML models to be trained and tested.
 
 
 Libraries used for tennis_prediction.ipynb :
